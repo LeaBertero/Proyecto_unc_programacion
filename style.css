@@ -1,0 +1,10 @@
+/*  */
+.titulo{
+    background-color: brown;
+    color:whitesmoke;
+    font-weight: bolder;
+    text-align: center;
+    /* padding: 0px; */
+    margin-top: 20px;
+    /* font-family: var(--bs-font-sans-serif); */
+}
