@@ -8,3 +8,8 @@
     margin-top: 20px;
     /* font-family: var(--bs-font-sans-serif); */
 }
+
+/* fondo de pagina */
+.fondo{
+    background-color: lightpink;
+}
