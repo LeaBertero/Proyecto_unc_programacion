@@ -22,3 +22,10 @@
     margin-block: 40px;
     /* margin-trim: 300px; */
 }
+
+/* imagenes del carrusel */
+.img_carrusel{
+    width: 200px;
+    height: 200px;
+    margin-left: 600px;
+}
