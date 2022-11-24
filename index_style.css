@@ -13,3 +13,12 @@
 .fondo{
     background-color: lightpink;
 }
+
+.btn{
+    background-color: black;
+    /* border-color: none; */
+    /* align-items:center; */
+    margin-left: 200px;
+    margin-block: 40px;
+    /* margin-trim: 300px; */
+}
