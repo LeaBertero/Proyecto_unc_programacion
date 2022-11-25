@@ -30,3 +30,13 @@
     height: 200px;
     margin-left: 600px;
 }
+
+/* diseño css */
+
+
+.logos{
+    /* display:flexbox; */
+    display: block;
+    margin-left: 40px;
+    
+}
