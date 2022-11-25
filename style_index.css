@@ -15,12 +15,13 @@
 }
 
 .btn{
-    background-color: black;
+    /* background-color:blue ; */
     /* border-color: none; */
     /* align-items:center; */
     margin-left: 200px;
     margin-block: 40px;
     /* margin-trim: 300px; */
+    /* color: whitesmoke; */
 }
 
 /* imagenes del carrusel */
