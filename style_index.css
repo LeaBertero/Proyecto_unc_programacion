@@ -15,28 +15,20 @@
 }
 
 .btn{
-    /* background-color:blue ; */
-    /* border-color: none; */
-    /* align-items:center; */
-    margin-left: 200px;
-    margin-block: 40px;
-    /* margin-trim: 300px; */
-    /* color: whitesmoke; */
-}
-
-/* imagenes del carrusel */
-.img_carrusel{
-    width: 200px;
-    height: 200px;
-    margin-left: 600px;
-}
-
-/* diseño css */
-
-
-.logos{
-    /* display:flexbox; */
-    display: block;
-    margin-left: 40px;
+    
+    margin-left: 220px; 
+    margin-block: 80px;
     
 }
+
+.integrantes{
+    /* margin-left:  140px; */
+    border-radius: 150px;
+    /* box-sizing: border-box; */
+    /* text-align: center; */
+    
+}
+
+
+
+
