@@ -1,12 +1,17 @@
-/*  */
+/* responsive */
+
+
+
 .titulo{
     background-color: brown;
     color:whitesmoke;
     font-weight: bolder;
     text-align: center;
-    /* padding: 0px; */
+    font-size: 100px;
+    
     margin-top: 20px;
-    /* font-family: var(--bs-font-sans-serif); */
+   
+    text-shadow: 5px 5px 5px black;
 }
 
 /* fondo de pagina */
@@ -14,16 +19,40 @@
     background-color: lightpink;
 }
 
-.btn{
+/* botones de inicio - nosotros - servicios - nestros productos */
+.botones{
+    /* background-color: gray; */
+    font-size: 30px;
+    margin-left: 200px; 
+    /* margin-block: 80px; */
+    color: whitesmoke;
+    /* background-color:red; */
+    text-shadow: 5px 5px 5px black;
+    /* margin-top: 40px; */
+    text-decoration: none;
+    border-radius: 20px;
+
     
-    margin-left: 220px; 
-    margin-block: 80px;
-    
+}
+#alerta{
+    margin-top: 50px;
+}
+
+.contacto{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* imagen de telefono */
+.img_tel{
+    width: 40px;
+    height: 40px;
 }
 
 .integrantes{
-    /* margin-left:  140px; */
-    border-radius: 150px;
+    margin-left:  1400px;
+    /* border-radius: 150px; */
     /* box-sizing: border-box; */
     /* text-align: center; */
     
